@@ -19,7 +19,7 @@ Once all the steps have been completed, we proceed to execute the following comm
 ## Program execution
 First it is necessary to modify the second cell of the code. Where we can define the name of the folders that we will create locally in our machine, although this step is not necessary if we already think that the assigned name is correct.
 
-It is also necessary in this same cell to change the value of the variable, to assign if we want to make a test with 42 proteins or the complete program with the 6631 proteins. 
+It is also necessary in this same cell to change the value of the variable, to assign if we want to make a test with 43 proteins or the complete program with the 6631 proteins. 
 The value to be assigned to the variable is specified in the program.
 
 ## Features
