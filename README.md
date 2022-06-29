@@ -7,11 +7,14 @@ It is necessary to access the WCN repository, created by Martin-Floor and follow
 
 Follow the steps shown in the repository: 
 <div class="csl-entry"><i>Martin-Floor/WCN</i>. (n.d.). Retrieved June 29, 2022, from https://github.com/Martin-Floor/WCN</div>
----
+
 
 Once all the steps have been completed, we proceed to execute the following commands in the created environment: 
-    * conda install -c anaconda wget 
-    * conda install -c conda-forge matplotlib
+
+
+    - conda install -c anaconda wget 
+
+    - conda install -c conda-forge matplotlib
 
 ## Program execution
 First it is necessary to modify the second cell of the code. Where we can define the name of the folders that we will create locally in our machine, although this step is not necessary if we already think that the assigned name is correct.
